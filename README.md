@@ -6,3 +6,5 @@ then play the game and test out the autosplitter. there should be a spider-man 2
 link the folders with images to the Autosplit apps.
 
 get Autosplitter the app here --> https://github.com/Toufool/AutoSplit/releases/tag/v2.2.0
+
+I'm gonna try and make it story related for any% speedruns with one folder!
