@@ -4,3 +4,5 @@ make a settings.toml for all three in the folder labeled settings. you use misc 
 make sure in the settings 1_pete and 2_miles loop last split image to first image is enabled.
 then play the game and test out the autosplitter. there should be a spider-man 2 ps5 livesplit file.
 link the folders with images to the Autosplit apps.
+
+get Autosplitter the app here --> https://github.com/Toufool/AutoSplit/releases/tag/v2.2.0
